@@ -3,5 +3,4 @@ import requests
 req = requests.get("https://iz-one.kr", headers={"User-Agent":"TEST"})
 
 if req.status_code != 200:
-    print("실패!")
-    print("개발")
+    print("머지 어떻게 하는 거야?")
