@@ -6,3 +6,4 @@ if req.status_code != 200:
     print("merge commit이 어떻게 ?d")
     print("mer")
     print(1)
+    print(2)
