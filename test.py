@@ -9,3 +9,4 @@ if req.status_code != 200:
     print("merge commit이 어떻게 ?d")
     print("merge commit이 어떻게 ?d")
     print("merge commit이 어떻게 ?d")
+    print("210905")
