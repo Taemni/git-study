@@ -14,3 +14,6 @@
 
 - git merge master (브랜치 병합)
 - git merge master --no-ff (브랜치 병합 커밋 남기기)
+
+- git remote -v
+- git remote add origin https://github.com/user/repo.git
