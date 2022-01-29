@@ -5,7 +5,7 @@
 - git push origin master (원격 푸쉬)
 
 - git branch test (생성만)
-- git branch -b test (생성 후 전환)
+- git checkout -b test (생성 후 전환)
 
 - git branch -d test (로컬 브랜치 삭제)
 - git push origin -d test (원격 브랜치 삭제)
