@@ -20,4 +20,5 @@
 
 ### 최근 커밋 삭제 (HEAD 끝에 "~n"를 붙이면 최근 n개의 커밋 내역을 삭제한다.)
 - git reset HEAD^
+- git reset HEAD~2
 - git push -f origin [브랜치 명]
