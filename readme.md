@@ -1,5 +1,5 @@
 # git 커맨드
-
+- git init
 - git add . (파일 추가)
 - git commit -m "message" (커밋 작성)
 - git push origin master (원격 푸쉬)
